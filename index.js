@@ -1,5 +1,3 @@
-function add ( a, b)
-{ var a = 3;
-  var b = 5;
-  return a + b
-}
+var a = 5;
+var b = 6;
+var add = a + b;
